@@ -1,3 +1,3 @@
 # test
-## It's my first project on GitHub
+It's my first project on GitHub
 ---
